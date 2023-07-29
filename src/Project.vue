@@ -11,7 +11,7 @@
 
       <div class="mb-12 lg:mb-0">
         <div class="relative mb-6 overflow-hidden rounded-lg bg-cover bg-no-repeat shadow-lg dark:shadow-black/20 bg-[50%]" data-te-ripple-init data-te-ripple-color="light">
-          <img src="./assets/img/mediapintar.PNG" class="w-full" />
+          <img src="./assets/img/main.avif" class="w-full" />
           <a href="#!">
             <div
               class="mask absolute top-0 right-0 bottom-0 left-0 h-full w-full overflow-hidden bg-fixed opacity-0 transition duration-300 ease-in-out hover:opacity-100 bg-[hsla(0,0%,98.4%,0.2)]"></div>
@@ -36,7 +36,7 @@
 
       <div class="mb-0">
         <div class="relative mb-6 overflow-hidden rounded-lg bg-cover bg-no-repeat shadow-lg dark:shadow-black/20 bg-[50%]" data-te-ripple-init data-te-ripple-color="light">
-          <img src="./assets/img/survival4.png" class="w-full" />
+          <img src="./assets/img/main.avif" class="w-full" />
           <a href="#!">
             <div
               class="mask absolute top-0 right-0 bottom-0 left-0 h-full w-full overflow-hidden bg-fixed opacity-0 transition duration-300 ease-in-out hover:opacity-100 bg-[hsla(0,0%,98.4%,0.2)]"></div>
