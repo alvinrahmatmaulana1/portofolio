@@ -1,5 +1,5 @@
 <script setup>
-import { Navbar, NavbarLogo, NavbarCollapse, NavbarLink } from 'flowbite-vue'
+import { Navbar, NavbarCollapse, NavbarLink } from 'flowbite-vue'
 </script>
 <template>
     <Navbar >
@@ -17,5 +17,4 @@ import { Navbar, NavbarLogo, NavbarCollapse, NavbarLink } from 'flowbite-vue'
         </NavbarCollapse>
       </template>
     </Navbar>
-    
 </template>
