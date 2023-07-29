@@ -60,7 +60,7 @@
 
 </figure>
 <figure  class="flex flex-col  items-center justify-center text-center bg-white ">
-         <img class="rounded-full w-50 h-49 transtision-all hover:hue-route space-x-1" src="./assets/profil3.jpg">
+         <img class="rounded-full w-50 h-49 transtision-all hover:hue-route space-x-1" src="./assets/img/profil3.jpg">
     </figure>
 </div>
 </div>

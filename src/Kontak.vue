@@ -49,7 +49,7 @@
     
 </figure>
 <figure  class="flex flex-col  items-center justify-center text-center bg-white ">
-    <img class="mt-5" src="./assets/main.avif">
+    <img class="mt-5" src="./assets/img/main.avif">
     </figure>
 </div>
 </div>
